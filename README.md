@@ -4,6 +4,8 @@
 
 
 ### How to install n8n on render.com for free
+**Youtube** :
+https://youtu.be/e1qz50cq-s4?si=yJgvTTE8ahEz56ez
 
 Follow these steps :
 
